@@ -1,1 +1,1 @@
-# Optimizing-Defense-Spending-Analysis-of-Budget-GDP-and-Population
+# This project aims to analyze the relationship between a country's defense budget, GDP, and population over time to assess whether defense spending is optimized. Using Python, data visualization, and statistical techniques, the analysis examines trends in defense spending as a percentage of GDP and per capita to determine efficiency and provide actionable insights for resource allocation improvements.
